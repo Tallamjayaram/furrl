@@ -1,0 +1,14 @@
+/* ProductDetail.css */
+
+.close-btn {
+  top: 10px;
+  right: 10px;
+  background-color: aqua;
+  width: 150px;
+  border: solid;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+
